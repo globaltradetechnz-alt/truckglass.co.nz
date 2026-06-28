@@ -1,0 +1,443 @@
+[build]
+  publish = "."
+  command = "echo 'Static site'"
+
+[[redirects]]
+  from = "/acco"
+  to = "/acco.html"
+  status = 200
+
+[[redirects]]
+  from = "/actros"
+  to = "/actros.html"
+  status = 200
+
+[[redirects]]
+  from = "/argosy"
+  to = "/argosy.html"
+  status = 200
+
+[[redirects]]
+  from = "/atego"
+  to = "/atego.html"
+  status = 200
+
+[[redirects]]
+  from = "/atlas"
+  to = "/atlas.html"
+  status = 200
+
+[[redirects]]
+  from = "/bedford"
+  to = "/bedford.html"
+  status = 200
+
+[[redirects]]
+  from = "/canter"
+  to = "/canter.html"
+  status = 200
+
+[[redirects]]
+  from = "/caravan"
+  to = "/caravan.html"
+  status = 200
+
+[[redirects]]
+  from = "/century"
+  to = "/century.html"
+  status = 200
+
+[[redirects]]
+  from = "/civilian"
+  to = "/civilian.html"
+  status = 200
+
+[[redirects]]
+  from = "/coaster"
+  to = "/coaster.html"
+  status = 200
+
+[[redirects]]
+  from = "/columbia"
+  to = "/columbia.html"
+  status = 200
+
+[[redirects]]
+  from = "/commander"
+  to = "/commander.html"
+  status = 200
+
+[[redirects]]
+  from = "/condor"
+  to = "/condor.html"
+  status = 200
+
+[[redirects]]
+  from = "/constellation"
+  to = "/constellation.html"
+  status = 200
+
+[[redirects]]
+  from = "/cornerstone"
+  to = "/cornerstone.html"
+  status = 200
+
+[[redirects]]
+  from = "/coronado"
+  to = "/coronado.html"
+  status = 200
+
+[[redirects]]
+  from = "/cruiseliner"
+  to = "/cruiseliner.html"
+  status = 200
+
+[[redirects]]
+  from = "/cxz_cxy_cyh_cvr_cgx_cxh"
+  to = "/cxz_cxy_cyh_cvr_cgx_cxh.html"
+  status = 200
+
+[[redirects]]
+  from = "/cursor"
+  to = "/cursor.html"
+  status = 200
+
+[[redirects]]
+  from = "/daily"
+  to = "/daily.html"
+  status = 200
+
+[[redirects]]
+  from = "/daf"
+  to = "/daf.html"
+  status = 200
+
+[[redirects]]
+  from = "/dutro"
+  to = "/dutro.html"
+  status = 200
+
+[[redirects]]
+  from = "/ducato"
+  to = "/ducato.html"
+  status = 200
+
+[[redirects]]
+  from = "/dyna"
+  to = "/dyna.html"
+  status = 200
+
+[[redirects]]
+  from = "/elf"
+  to = "/elf.html"
+  status = 200
+
+[[redirects]]
+  from = "/erf"
+  to = "/erf.html"
+  status = 200
+
+[[redirects]]
+  from = "/eurocargo"
+  to = "/eurocargo.html"
+  status = 200
+
+[[redirects]]
+  from = "/eurotech"
+  to = "/eurotech.html"
+  status = 200
+
+[[redirects]]
+  from = "/eurostar"
+  to = "/eurostar.html"
+  status = 200
+
+[[redirects]]
+  from = "/fighter"
+  to = "/fighter.html"
+  status = 200
+
+[[redirects]]
+  from = "/fleetliner"
+  to = "/fleetliner.html"
+  status = 200
+
+[[redirects]]
+  from = "/fh_fm"
+  to = "/fh_fm.html"
+  status = 200
+
+[[redirects]]
+  from = "/freightliner"
+  to = "/freightliner.html"
+  status = 200
+
+[[redirects]]
+  from = "/fl6_fl7_fl10_fl12_fle_flh"
+  to = "/fl6_fl7_fl10_fl12_fle_flh.html"
+  status = 200
+
+[[redirects]]
+  from = "/f_series_frr_fsr_fss_ftr"
+  to = "/f_series_frr_fsr_fss_ftr.html"
+  status = 200
+
+[[redirects]]
+  from = "/f7_f10_f12_f16"
+  to = "/f7_f10_f12_f16.html"
+  status = 200
+
+[[redirects]]
+  from = "/freedom"
+  to = "/freedom.html"
+  status = 200
+
+[[redirects]]
+  from = "/fuso"
+  to = "/fuso.html"
+  status = 200
+
+[[redirects]]
+  from = "/giga"
+  to = "/giga.html"
+  status = 200
+
+[[redirects]]
+  from = "/heritage"
+  to = "/heritage.html"
+  status = 200
+
+[[redirects]]
+  from = "/hiace"
+  to = "/hiace.html"
+  status = 200
+
+[[redirects]]
+  from = "/hino"
+  to = "/hino.html"
+  status = 200
+
+[[redirects]]
+  from = "/international"
+  to = "/international.html"
+  status = 200
+
+[[redirects]]
+  from = "/iveco"
+  to = "/iveco.html"
+  status = 200
+
+[[redirects]]
+  from = "/journey"
+  to = "/journey.html"
+  status = 200
+
+[[redirects]]
+  from = "/isuzu"
+  to = "/isuzu.html"
+  status = 200
+
+[[redirects]]
+  from = "/kombi"
+  to = "/kombi.html"
+  status = 200
+
+[[redirects]]
+  from = "/kenworth"
+  to = "/kenworth.html"
+  status = 200
+
+[[redirects]]
+  from = "/k100e_k100g_k104"
+  to = "/k100e_k100g_k104.html"
+  status = 200
+
+[[redirects]]
+  from = "/leader"
+  to = "/leader.html"
+  status = 200
+
+[[redirects]]
+  from = "/l700_kenworth"
+  to = "/l700_kenworth.html"
+  status = 200
+
+[[redirects]]
+  from = "/louisville"
+  to = "/louisville.html"
+  status = 200
+
+[[redirects]]
+  from = "/mack"
+  to = "/mack.html"
+  status = 200
+
+[[redirects]]
+  from = "/man"
+  to = "/man.html"
+  status = 200
+
+[[redirects]]
+  from = "/metroliner"
+  to = "/metroliner.html"
+  status = 200
+
+[[redirects]]
+  from = "/midliner"
+  to = "/midliner.html"
+  status = 200
+
+[[redirects]]
+  from = "/midlum"
+  to = "/midlum.html"
+  status = 200
+
+[[redirects]]
+  from = "/navistar"
+  to = "/navistar.html"
+  status = 200
+
+[[redirects]]
+  from = "/n_series_nhr_npr_nkr"
+  to = "/n_series_nhr_npr_nkr.html"
+  status = 200
+
+[[redirects]]
+  from = "/parkway"
+  to = "/parkway.html"
+  status = 200
+
+[[redirects]]
+  from = "/quantum"
+  to = "/quantum.html"
+  status = 200
+
+[[redirects]]
+  from = "/quon"
+  to = "/quon.html"
+  status = 200
+
+[[redirects]]
+  from = "/ranger"
+  to = "/ranger.html"
+  status = 200
+
+[[redirects]]
+  from = "/rainbow"
+  to = "/rainbow.html"
+  status = 200
+
+[[redirects]]
+  from = "/renault_truck"
+  to = "/renault_truck.html"
+  status = 200
+
+[[redirects]]
+  from = "/road_boss"
+  to = "/road_boss.html"
+  status = 200
+
+[[redirects]]
+  from = "/trader"
+  to = "/trader.html"
+  status = 200
+
+[[redirects]]
+  from = "/traliner"
+  to = "/traliner.html"
+  status = 200
+
+[[redirects]]
+  from = "/transporter"
+  to = "/transporter.html"
+  status = 200
+
+[[redirects]]
+  from = "/trident"
+  to = "/trident.html"
+  status = 200
+
+[[redirects]]
+  from = "/t300_t400_t500_t600_t900"
+  to = "/t300_t400_t500_t600_t900.html"
+  status = 200
+
+[[redirects]]
+  from = "/t2000_kenworth"
+  to = "/t2000_kenworth.html"
+  status = 200
+
+[[redirects]]
+  from = "/t601_t604_t904"
+  to = "/t601_t604_t904.html"
+  status = 200
+
+[[redirects]]
+  from = "/volvo_truck"
+  to = "/volvo_truck.html"
+  status = 200
+
+[[redirects]]
+  from = "/western_star"
+  to = "/western_star.html"
+  status = 200
+
+[[redirects]]
+  from = "/white"
+  to = "/white.html"
+  status = 200
+
+[[redirects]]
+  from = "/ud"
+  to = "/ud.html"
+  status = 200
+
+[[redirects]]
+  from = "/unimog"
+  to = "/unimog.html"
+  status = 200
+
+[[redirects]]
+  from = "/vision"
+  to = "/vision.html"
+  status = 200
+
+[[redirects]]
+  from = "/vito"
+  to = "/vito.html"
+  status = 200
+
+[[redirects]]
+  from = "/windscreen_replacement"
+  to = "/windscreen_replacement.htm"
+  status = 200
+
+[[redirects]]
+  from = "/windscreen_repair"
+  to = "/windscreen_repair.htm"
+  status = 200
+
+[[redirects]]
+  from = "/windscreen-insurance"
+  to = "/windscreen-insurance.htm"
+  status = 200
+
+[[redirects]]
+  from = "/on-site-windscreen-fitting-service"
+  to = "/on-site-windscreen-fitting-service.htm"
+  status = 200
+
+[[redirects]]
+  from = "/online-windscreen-quote"
+  to = "/online-windscreen-quote.htm"
+  status = 200
+
+[[redirects]]
+  from = "/contact-Autoglass"
+  to = "/contact-Autoglass.htm"
+  status = 200
+
+[[redirects]]
+  from = "/motor-trade-windscreens"
+  to = "/motor-trade-windscreens.htm"
+  status = 200
